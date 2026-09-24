@@ -1,0 +1,6 @@
+{
+  "name": "Beyond Drive+ | Odisha Tour & Travel",
+  "description": "Explore Odisha with Beyond Drive+. All-inclusive weekly tour packages to Puri, Konark, Daringbadi, Chilika and affordable self-drive car rental across Bhubaneswar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
